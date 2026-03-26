@@ -21,9 +21,12 @@ UCI Student Performance Dataset
 5. Results and interpretation
 
 ## Main Findings
-- Previous grades are strongly related to final grade
-- Study habits and absences also influence performance
-- Linear Regression can predict final grades with reasonable accuracy
+- Previous Academic Performance is the Strongest Predictor
+- Study Time Positively Influences Academic Success
+- Past Failures Negatively Affect Final Performance
+- Absenteeism Has a Moderate Negative Impact
+- Dimensionality Reduction Using PCA
+- Machine Learning Model Comparison
 
 ## Files
 - `Data_Analysis.ipynb` → analysis notebook
